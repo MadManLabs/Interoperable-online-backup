@@ -8,3 +8,6 @@ This application uses client-server par-adigm, in which suitable compliers, MySQ
 In result to, some of the class libraries were found missing. The application can be further developed to support different platforms, such as smart phones, tablets, MacOSx, Linux distribution and also make new provision and customization to build a web-based application. Moreover, it can be opti-mized by allocating bandwidth limit and upgraded to provide additional features. 
 
 Keywords Backup, Asynchronous Socket, Network Stream, C#, Bash, WCF, Mono
+
+## Author
+[Dawit Nida](https://github.com/dawitnida)
